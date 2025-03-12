@@ -14,6 +14,7 @@ SpringIOC_XML_Project/
 │-- src/main/resources/
 │   ├── springbeans.xml
 │-- pom.xml
+      |`<!-- Spring Core <version>6.0.17--><!-- Spring Context <version>6.0.17-->
 ```
 
 ## 🛠 Technologies Used
